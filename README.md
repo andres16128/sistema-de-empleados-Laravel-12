@@ -147,6 +147,11 @@ SISTEMA/
 | updated_at | TIMESTAMP |
 
 ---
+## Importar base de datos
+
+Importa el archivo `docs/sistema.sql` en phpMyAdmin.
+
+---
 
 ##  Autor
 
